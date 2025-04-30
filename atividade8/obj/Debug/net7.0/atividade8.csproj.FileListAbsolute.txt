@@ -1,0 +1,14 @@
+C:\Users\Fernanda46528586\Documents\while\atividade8\bin\Debug\net7.0\atividade8.exe
+C:\Users\Fernanda46528586\Documents\while\atividade8\bin\Debug\net7.0\atividade8.deps.json
+C:\Users\Fernanda46528586\Documents\while\atividade8\bin\Debug\net7.0\atividade8.runtimeconfig.json
+C:\Users\Fernanda46528586\Documents\while\atividade8\bin\Debug\net7.0\atividade8.dll
+C:\Users\Fernanda46528586\Documents\while\atividade8\bin\Debug\net7.0\atividade8.pdb
+C:\Users\Fernanda46528586\Documents\while\atividade8\obj\Debug\net7.0\atividade8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda46528586\Documents\while\atividade8\obj\Debug\net7.0\atividade8.AssemblyInfoInputs.cache
+C:\Users\Fernanda46528586\Documents\while\atividade8\obj\Debug\net7.0\atividade8.AssemblyInfo.cs
+C:\Users\Fernanda46528586\Documents\while\atividade8\obj\Debug\net7.0\atividade8.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda46528586\Documents\while\atividade8\obj\Debug\net7.0\atividade8.dll
+C:\Users\Fernanda46528586\Documents\while\atividade8\obj\Debug\net7.0\refint\atividade8.dll
+C:\Users\Fernanda46528586\Documents\while\atividade8\obj\Debug\net7.0\atividade8.pdb
+C:\Users\Fernanda46528586\Documents\while\atividade8\obj\Debug\net7.0\atividade8.genruntimeconfig.cache
+C:\Users\Fernanda46528586\Documents\while\atividade8\obj\Debug\net7.0\ref\atividade8.dll
