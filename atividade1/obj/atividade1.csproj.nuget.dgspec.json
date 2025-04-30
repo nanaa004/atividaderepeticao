@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fernanda46528586\\Documents\\repti\\atividade1\\atividade1.csproj": {}
+    "C:\\Users\\Fernanda46528586\\Documents\\while\\atividade1\\atividade1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fernanda46528586\\Documents\\repti\\atividade1\\atividade1.csproj": {
+    "C:\\Users\\Fernanda46528586\\Documents\\while\\atividade1\\atividade1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fernanda46528586\\Documents\\repti\\atividade1\\atividade1.csproj",
+        "projectUniqueName": "C:\\Users\\Fernanda46528586\\Documents\\while\\atividade1\\atividade1.csproj",
         "projectName": "atividade1",
-        "projectPath": "C:\\Users\\Fernanda46528586\\Documents\\repti\\atividade1\\atividade1.csproj",
+        "projectPath": "C:\\Users\\Fernanda46528586\\Documents\\while\\atividade1\\atividade1.csproj",
         "packagesPath": "C:\\Users\\Fernanda46528586\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fernanda46528586\\Documents\\repti\\atividade1\\obj\\",
+        "outputPath": "C:\\Users\\Fernanda46528586\\Documents\\while\\atividade1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
